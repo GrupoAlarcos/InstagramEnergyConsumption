@@ -1,0 +1,20 @@
+numero de muestra, tiempo, HDD1, HDD2,  Graf1, Graf2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+numero de muestra, tiempo, HDD1, HDD2,  Graf1, Graf2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+numero de muestra, tiempo, HDD1, HDD2,  Graf1, Graf2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+numero de muestra, tiempo, HDD1, HDD2,  Graf1, Graf2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+numero de muestra, tiempo, HDD1, HDD2,  Graf1, Graf2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+numero de muestra, tiempo, HDD1, HDD2,  Graf1, Graf2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+numero de muestra, tiempo, HDD1, HDD2,  Graf1, Graf2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+numero de muestra, tiempo, HDD1, HDD2,  Graf1, Graf2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+numero de muestra, tiempo, HDD1, HDD2,  Graf1, Graf2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
+numero de muestra, tiempo, HDD1, HDD2,  Graf1, Graf2, Proc1, Proc2, tempEET, tempPROC 
+1 ,0,0,0,0,0,0,0 ,-- ,--
